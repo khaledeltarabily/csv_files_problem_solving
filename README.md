@@ -1,7 +1,7 @@
 # Run Project
 
- Flutter run
+ flutter run
 
-## Run Unit Test
+# Generate APK
 
- flutter run test
+ flutter build apk
